@@ -1,1 +1,1 @@
-# sampled_k
+Clone of Masai school homepage
